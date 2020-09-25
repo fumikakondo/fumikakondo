@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD candidate 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: McGill University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include emotion regulation, cognitive functions in patients with psychiatric disorders and in healthy individuals 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- fMRI
+- EEG
+- fNIRS
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Integrated Program in Neuroscience
+    institution: McGill University
+    year: 
+  - course: MSc in Neuroscience
+    institution: University of Ottawa
+    year: 2017
+  - course: BSc in Psychology
+    institution: University of Sussex
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
