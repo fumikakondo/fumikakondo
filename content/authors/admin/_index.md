@@ -69,7 +69,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
+Fumika Kondo is a PhD candidate of Integrated program in neuroscience at the McGill Jorge Armony Lab. Her research interests include include emotion regulation, cognitive functions in patients with psychiatric disorders and in healthy individuals. Right now she is conducting a reseach on emotion regulation and working memory in bipolar disorder patients at the Douglas Mental Health University Institute. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
